@@ -15,24 +15,22 @@
 .nav-bar {
     display: flex;
     justify-content: space-between;
-    padding: 5rem;
+    padding: 2rem;
     padding-inline-end: 14.9rem;
     padding-inline-start: 14.9rem;
 }
 
 nav {
     display: flex;
-    
+    margin-left: 34rem;
 }
-
-/* .logo {
-    
-} */
 
 nav a {
     padding: 1.5rem; 
     color: gray;
     text-decoration: none;
+    
+
 }
 
 nav a:hover {
@@ -81,7 +79,6 @@ h3:hover {
 
 .grid-container {
     display: grid;
-    /* grid-template-columns: 1fr 1fr ; */
 }
 
 .first-grid img {
@@ -122,7 +119,7 @@ h3:hover {
 }
 
 .attribution {
-    margin-top: 1rem;
+    margin-top: 1.3rem;
     font-style: italic;
 }
 
