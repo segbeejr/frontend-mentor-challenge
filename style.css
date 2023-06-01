@@ -17,7 +17,7 @@
     justify-content: space-between;
     padding: 2rem;
     padding-inline-end: 14.9rem;
-    padding-inline-start: 14.9rem;
+    padding-inline-start: 11rem;
 }
 
 nav {
@@ -45,6 +45,7 @@ nav a:hover {
     height: 450px;
     padding: 1.3rem;
     margin-top: -2rem;
+    
     
 }
 
@@ -83,7 +84,7 @@ h3:hover {
 
 .first-grid img {
     width: 750px;
-    margin-left: 14.9rem;
+    margin-left: 11rem;
     margin-right: 30px;
     margin-top: -2rem;
     height: 250px;
@@ -104,7 +105,7 @@ h3:hover {
     display: flex;
     position: absolute;
     margin-top: 15rem;
-    margin-left: 14rem;
+    margin-left: 10rem;
 
 }
 
@@ -126,7 +127,7 @@ h3:hover {
 .last-div {
     display: flex;
     margin-top: 2rem;
-    margin-left: 14rem;
+    margin-left: 10rem;
     padding: 1rem;
 }
 
